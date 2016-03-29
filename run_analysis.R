@@ -1,7 +1,5 @@
 # Getting and Cleaning Data Course Project
 
-setwd("c:/Users/HModi/Celgene/Per/CourseRA/DataCleaning/Data/UCI HAR Dataset")
-library(dplyr)
 
 # 1.Merges the training and the test sets to create one data set.
 x_train = read.table("train/X_train.txt")# Training Sets, actual data
