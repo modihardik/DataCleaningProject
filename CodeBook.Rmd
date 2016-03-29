@@ -1,6 +1,5 @@
----
-title: "CodeBook For Getting and Cleaning Data Course Project of UCI HAR Dataset."
----
+# "CodeBook For Getting and Cleaning Data Course Project of UCI HAR Dataset."
+
 <HR>
 ##Variables
 <HR>
